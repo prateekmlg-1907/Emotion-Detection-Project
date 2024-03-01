@@ -20,6 +20,7 @@ Project
 |   |-- emotion_detector.h5
 |-- main.py
 |-- train.py
+|-- requirements.txt
 ```
 
 - **data**: Contains subdirectories for training and testing data. Each class has its own subdirectory, facilitating efficient data organization.
